@@ -1,2 +1,2 @@
-# Cloud Assignment Chart Busters
-This is a Class Project which i did for Cloud Technology 
+# CloudTechnology-ChartBusters
+Contains source code of the project
